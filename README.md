@@ -1,2 +1,2 @@
-# pyBatchDeletingfiles
-Delete some files which are determined in a csv file .
+# pyBatchDeletingOrCopyingfiles
+Delete or copy some files which are determined in a csv file .
