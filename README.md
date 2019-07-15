@@ -10,10 +10,3 @@ The list of the necessary files in CSV format is required for both way.
 
   * 不要なファイルを削除する。
   * 必要なファイルを別のディレクトリへコピーする。
-  
-
-## Directory construction
-
-
-
-
